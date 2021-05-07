@@ -1,6 +1,6 @@
 # UTS-Pengolah-Citra-GUI
 
-# Tampilan Disgn Complement Image (Negative Image),RGB,Grayslace,Binary menggunakan GUI MATLAB
+**Tampilan Disign Complement Image (Negative Image),RGB,Grayslace,Binary menggunakan GUI MATLAB**
 
 ![image](https://user-images.githubusercontent.com/56451391/117426562-39628580-af4e-11eb-8a9a-313bd0908f2d.png)
 
